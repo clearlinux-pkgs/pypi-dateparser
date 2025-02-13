@@ -7,7 +7,7 @@
 #
 Name     : pypi-dateparser
 Version  : 1.2.1
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/bd/3f/d3207a05f5b6a78c66d86631e60bfba5af163738a599a5b9aa2c2737a09e/dateparser-1.2.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/bd/3f/d3207a05f5b6a78c66d86631e60bfba5af163738a599a5b9aa2c2737a09e/dateparser-1.2.1.tar.gz
 Summary  : Date parsing library designed to parse dates from HTML pages
